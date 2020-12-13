@@ -1,0 +1,8 @@
+name: NearCommand
+author: xTailsPvP
+version: 1.0
+main: de.tails.nearcommand.main.NearCommand
+api-version: 1.8
+
+commands:
+   near:
